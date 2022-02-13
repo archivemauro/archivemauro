@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/archivemauro](www.github.com/archivemauro)
 
-- 💬 Ask me about **Html, Css, Javascript, React, Svelte**
+- 💬 Ask me about **Html, Css, Javascript, React**
 
 - 📫 How to reach me **archivemauro@gmail.com**
 
